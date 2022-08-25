@@ -21,7 +21,7 @@ The Office Quiz
 https://github.com/chickengong/TheOfficeQuiz
 
 ## Web Site Link
-https://chickengong.github.io/theofficequiz/
+https://chickengong.github.io/TheOfficeQuiz/
 
 
 
