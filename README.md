@@ -18,7 +18,7 @@ The Office Quiz
 
 
 ## Repository link
-https://github.com/chickengong/homework-module-3
+https://github.com/chickengong/TheOfficeQuiz
 
 ## Web Site Link
 https://chickengong.github.io/theofficequiz/
